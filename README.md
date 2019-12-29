@@ -1,9 +1,6 @@
 # Christopher_Tsai_CS348
  Repo for my CS 348 Introduction to AI course assignments.
-{nbsp} +
-{nbsp} +
-{nbsp} +
-{nbsp} +
+
 # Assignment 1: Knowledge Base Basics
 
 In this lab assignment, you are going to create a basic knowledge base (KB) to store and retrieve facts. The facts will be statements that includes predicates (e.g., Color, Size, Inst) that relate objects together.  For example:
@@ -204,10 +201,10 @@ This file defines the two classes you must implement, KnowledgeBase and Inferenc
 ### KnowledgeBase
 
 Represents a knowledge base and contains the two methods described in the writeup (`Assert` and `Ask`)
-
-
-
-
+#
+#
+#
+#
 # Assignment 2: Knowledge Base: Rules
 
 In this lab assignment, you are going to extend a knowledge base (KB) and an inference engine. The knowledge base supports three main interfaces: `Assert`, `Retract`, and `Ask`.
@@ -428,10 +425,10 @@ Represents a knowledge base and implements the three actions described in the wr
 #### InferenceEngine
 
 Represents an inference engine. Implements forward-chaining in this lab.
-
-
-
-
+#
+#
+#
+#
 # Assignment 3â€”Search
 
 ## Back Story
@@ -507,10 +504,10 @@ Your `a_star_search` function must implement an A\* **graph** search algorithm, 
 Furthermore, the Autograder assumes that all of the code that is needed to properly grade your assignment submission is included in `student_code.py`. Please adhere to this constraint as you develop your response.
 
 Additionally, you should feel invited to use built-in Python modules for your data structures, but you need to implement A\* yourself.
-
-
-
-
+#
+#
+#
+#
 # Assignment 4â€”Game Search
 
 ## Introduction: Konane
@@ -646,10 +643,10 @@ On additional fun:
 
 * Try out a better evaluation function.  Define an `h2` and see how it does.  Can it do better than the `h1` evaluation function?  Note that we will use `h1` for grading, so be sure to have your Minimax and AlphaBeta players setup to use `h1` in your final submission.
 * Can you beat AlphaBeta?  Use `main.py` to play against the computer and see if you can win.
-
-
-
-
+#
+#
+#
+#
 # Assignment 5 - NLG 101
 
 ## Introduction
@@ -720,10 +717,10 @@ Of course, you have already mentioned one of the blocks so you need to figure ou
 Given the facts in the KB, this means that passing "Block2" to DESCRIBE should end up with:
 
 "Block2 is a Large Green Block. It is on top of Block2."
-
-
-
-
+#
+#
+#
+#
 # Extract Credit Assignment: Augment the KB with "Explain"
 
 In this extra credit (optional) assignment, you are going to extend the Knowledge Base (KB) with the `Explain` function. The function explains how a Fact or a Rule is supported by other Facts and Rules in the KB and whether it is asserted. 
