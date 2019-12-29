@@ -429,7 +429,7 @@ Represents an inference engine. Implements forward-chaining in this lab.
 #
 #
 #
-# Assignment 3â€”Search
+# Assignment 3: Search
 
 ## Back Story
 
@@ -508,7 +508,7 @@ Additionally, you should feel invited to use built-in Python modules for your da
 #
 #
 #
-# Assignment 4â€”Game Search
+# Assignment 4: Game Search
 
 ## Introduction: Konane
 
@@ -647,7 +647,7 @@ On additional fun:
 #
 #
 #
-# Assignment 5 - NLG 101
+# Assignment 5: NLG 101
 
 ## Introduction
 You are going to build a simple NLG system that is able to generate collections of sentences based the results of queries (ASKs) of a knowledge base (bootstrapped from facts.txt).
