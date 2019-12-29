@@ -1,0 +1,35 @@
+(INST per1 Person)
+(INST per2 Person)
+
+(KNOWS per1 per2)
+(LOVES per1 per2)
+(HATES per2 per1)
+
+(NAME per1 Bob)
+(NAME per2 Sally)
+
+(GENDER per1 Male)
+(GENDER per2 Female)
+
+(INST Block2 Block)
+(SIZE Block2 Large)
+(COLOR Block2 Green)
+
+(INST Block1 Block)
+(COLOR Block1 Red)
+(SIZE Block1 Small)
+
+(ON Block1 Block2)
+
+(FEATURE COLOR)
+(FEATURE SIZE)
+(RELATIONSHIP ON)
+(RELATIONSHIP KNOWS)
+
+(REFERENCE Male he him his)
+(REFERENCE Female she her her)
+(REFERENCE NEUTRAL it it it's)
+
+(EXPRESS Person NAME)
+(FORMAT NAME capitalize)
+

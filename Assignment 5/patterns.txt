@@ -1,0 +1,11 @@
+KNOWS: !arg1 knows !arg2
+NAME: !arg1 is named !arg2
+TALLER: !arg1 is taller than !arg2
+HATES: !arg1 hates !arg2
+LOVES: !arg1 loves !arg2
+GENDER: !arg1 is !arg2
+INST: !arg1 is a !arg2
+ISA: !arg1 is !arg2
+COLOR: !arg1 is !arg2
+ON: !arg1 is on !arg2
+
