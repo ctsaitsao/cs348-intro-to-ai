@@ -1,0 +1,26 @@
+fact: (inst Nosliw dragon)
+fact: (evil Nosliw)
+fact: (inst Uzna dragon)
+fact: (friendly Uzna)
+fact: (isa dragon monster)
+fact: (different Nosliw Uzna)
+fact: (different Uzna Nosliw)
+
+fact: (inst Caspa giant)
+fact: (evil Caspa)
+fact: (inst Nestle giant)
+fact: (isa giant monster)
+
+fact: (inst Hershey dog)
+fact: (friendly Hershey)
+fact: (isa dog animal)
+fact: (same Hershey Nestle)
+
+fact: (inst Ai hero)
+fact: (friendly Ai)
+fact: (possesses Ai sword)
+fact: (attacks-with Ai Nosliw sword)
+fact: (travels-with-from-to Ai Hershey town lake)
+
+fact: (inst Nosliw dragon)
+fact: (evil Caspa)
